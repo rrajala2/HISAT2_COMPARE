@@ -1,0 +1,7 @@
+control,condition
+VEH,CLK
+VEH,SHI
+VEH,CS
+SHI,CLK
+CLK,CS
+SHI,CS

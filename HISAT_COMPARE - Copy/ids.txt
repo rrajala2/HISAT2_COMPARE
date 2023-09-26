@@ -1,0 +1,12 @@
+ko_bead_1
+ko_bead_2
+ko_bead_3
+ko_input_1
+ko_input_2
+ko_input_3
+wt_bead_1
+wt_bead_2
+wt_bead_3
+wt_input_1
+wt_input_2
+wt_input_3
